@@ -1,1 +1,16 @@
-Welcome, The new challenger. This is the repository to save about golang skill on gitbook
+---
+description: 恭喜當你點到這裡我想你開啟了一個新坑
+coverY: 0
+---
+
+# 🙌 這裡是起點
+
+### 登陸須知
+
+目前將分成三個區塊：
+
+* golang教學區
+* The company區
+* 雜項區
+
+文件新增的歷程會通過雜項區(類似於積壓站存區)，開啟整個wiki不管是建構樹的更變、文件新增、甚至開拓知識點，當然這意味者其他人能有權限更動的部分只有雜項區，其餘的部分都需經過管理員考慮是否進行其餘區域的更動。
