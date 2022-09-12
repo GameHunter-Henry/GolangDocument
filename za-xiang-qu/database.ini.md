@@ -66,6 +66,18 @@ max_idle_connections = 200
 max_connection_lifetime = 5
 debug = false
 
+[database_record_replica]
+host = 61.66.104.98
+port = 54038
+name = zio_center_record
+account = zio_center_user
+password = 123456
+max_connections = 200
+max_idle_connections = 200
+# minutes
+max_connection_lifetime = 5
+debug = false
+
 [database]
 db_table_limit_rows = 1000000
 
