@@ -13,6 +13,7 @@
 
 ## 📥 雜項區
 
+* [cache.ini](za-xiang-qu/cache.ini.md)
 * [免費贈予活動修正](za-xiang-qu/mian-fei-zeng-yu-huo-dong-xiu-zheng.md)
 * [database.ini](za-xiang-qu/database.ini.md)
 * [sync Map](za-xiang-qu/sync-map/README.md)
