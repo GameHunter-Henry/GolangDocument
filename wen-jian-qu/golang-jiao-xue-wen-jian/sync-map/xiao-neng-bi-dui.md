@@ -4,19 +4,19 @@
 
 ### 寫：
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 寫的部分 syncMap是最慢的，而最快的是互斥鎖的map
 
 ### 讀：
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 再讀的狀況下可以發現情況剛好相反過來，syncMap的讀寫速度遠遠少於其他兩種map
 
 ### 刪除：
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 刪除的也是，syncMap的速度也是很快，那從以上分析可得知
 

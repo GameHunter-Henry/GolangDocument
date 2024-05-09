@@ -33,7 +33,7 @@ type entry struct {
 
 看起來是一個指針，然後read跟dirty雖都擁有各自的key值，但其都指向同個value，也就是說，只要更動這個entry，read與dirty都會連動更改
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption><p>sync.Map的設計設計圖</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (23).png" alt=""><figcaption><p>sync.Map的設計設計圖</p></figcaption></figure>
 
 {% content-ref url="store-fang-fa.md" %}
 [store-fang-fa.md](store-fang-fa.md)

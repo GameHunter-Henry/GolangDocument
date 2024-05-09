@@ -16,15 +16,15 @@
 * [cache.ini](za-xiang-qu/cache.ini.md)
 * [免費贈予活動修正](za-xiang-qu/mian-fei-zeng-yu-huo-dong-xiu-zheng.md)
 * [database.ini](za-xiang-qu/database.ini.md)
-* [sync Map](za-xiang-qu/sync-map/README.md)
-  * [🔧 如何使用](za-xiang-qu/sync-map/ru-he-shi-yong.md)
-  * [📃 資料結構](za-xiang-qu/sync-map/zi-liao-jie-gou.md)
-  * [📉 效能比對](za-xiang-qu/sync-map/xiao-neng-bi-dui.md)
-  * [☕ 底層剖析](za-xiang-qu/sync-map/di-ceng-pou-xi/README.md)
-    * [💾 Store 方法](za-xiang-qu/sync-map/di-ceng-pou-xi/store-fang-fa.md)
-    * [🔎 Load 方法](za-xiang-qu/sync-map/di-ceng-pou-xi/load-fang-fa.md)
 
 ## 📚 文件區
 
 * [Golang 教學文件](wen-jian-qu/golang-jiao-xue-wen-jian/README.md)
   * [輸出](wen-jian-qu/golang-jiao-xue-wen-jian/shu-chu.md)
+  * [sync Map](wen-jian-qu/golang-jiao-xue-wen-jian/sync-map/README.md)
+    * [🔧 如何使用](wen-jian-qu/golang-jiao-xue-wen-jian/sync-map/ru-he-shi-yong.md)
+    * [📃 資料結構](wen-jian-qu/golang-jiao-xue-wen-jian/sync-map/zi-liao-jie-gou.md)
+    * [📉 效能比對](wen-jian-qu/golang-jiao-xue-wen-jian/sync-map/xiao-neng-bi-dui.md)
+    * [☕ 底層剖析](wen-jian-qu/golang-jiao-xue-wen-jian/sync-map/di-ceng-pou-xi/README.md)
+      * [💾 Store 方法](wen-jian-qu/golang-jiao-xue-wen-jian/sync-map/di-ceng-pou-xi/store-fang-fa.md)
+      * [🔎 Load 方法](wen-jian-qu/golang-jiao-xue-wen-jian/sync-map/di-ceng-pou-xi/load-fang-fa.md)
